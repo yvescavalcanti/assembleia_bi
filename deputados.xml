@@ -1,0 +1,466 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<listaDeputado xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<deputado>
+  <id>12193</id>
+  <nome>Adalclever Lopes</nome>
+  <partido>MDB</partido>
+  <tagLocalizacao>640</tagLocalizacao>
+</deputado>
+<deputado>
+  <id>15245</id>
+  <nome>Agostinho Patrus Filho</nome>
+  <partido>PV</partido>
+  <tagLocalizacao>643</tagLocalizacao>
+</deputado>
+<deputado>
+  <id>7752</id>
+  <nome>Alencar da Silveira Jr.</nome>
+  <partido>PDT</partido>
+  <tagLocalizacao>645</tagLocalizacao>
+</deputado>
+<deputado>
+  <id>12195</id>
+  <nome>André Quintão</nome>
+  <partido>PT</partido>
+  <tagLocalizacao>648</tagLocalizacao>
+</deputado>
+<deputado>
+  <id>18845</id>
+  <nome>Anselmo José Domingos</nome>
+  <partido>PTC</partido>
+  <tagLocalizacao>986</tagLocalizacao>
+</deputado>
+<deputado>
+  <id>7327</id>
+  <nome>Antonio Carlos Arantes</nome>
+  <partido>PSDB</partido>
+  <tagLocalizacao>649</tagLocalizacao>
+</deputado>
+<deputado>
+  <id>22617</id>
+  <nome>Antônio Jorge</nome>
+  <partido>PPS</partido>
+  <tagLocalizacao>1668</tagLocalizacao>
+</deputado>
+<deputado>
+  <id>18846</id>
+  <nome>Antonio Lerin</nome>
+  <partido>PSB</partido>
+  <tagLocalizacao>987</tagLocalizacao>
+</deputado>
+<deputado>
+  <id>9652</id>
+  <nome>Arlen Santiago</nome>
+  <partido>PTB</partido>
+  <tagLocalizacao>652</tagLocalizacao>
+</deputado>
+<deputado>
+  <id>11165</id>
+  <nome>Arlete Magalhães</nome>
+  <partido>DC</partido>
+  <tagLocalizacao>1669</tagLocalizacao>
+</deputado>
+<deputado>
+  <id>22514</id>
+  <nome>Arnaldo Silva</nome>
+  <partido>DEM</partido>
+  <tagLocalizacao>1670</tagLocalizacao>
+</deputado>
+<deputado>
+  <id>3667</id>
+  <nome>Bonifácio Mourão</nome>
+  <partido>PSDB</partido>
+  <tagLocalizacao>988</tagLocalizacao>
+</deputado>
+<deputado>
+  <id>18857</id>
+  <nome>Bosco</nome>
+  <partido>AVANTE</partido>
+  <tagLocalizacao>989</tagLocalizacao>
+</deputado>
+<deputado>
+  <id>15246</id>
+  <nome>Braulio Braz</nome>
+  <partido>PTB</partido>
+  <tagLocalizacao>653</tagLocalizacao>
+</deputado>
+<deputado>
+  <id>9371</id>
+  <nome>Cabo Júlio</nome>
+  <partido>MDB</partido>
+  <tagLocalizacao>1456</tagLocalizacao>
+</deputado>
+<deputado>
+  <id>10002</id>
+  <nome>Carlos Henrique</nome>
+  <partido>PRB</partido>
+  <tagLocalizacao>991</tagLocalizacao>
+</deputado>
+<deputado>
+  <id>7758</id>
+  <nome>Carlos Pimenta</nome>
+  <partido>PDT</partido>
+  <tagLocalizacao>657</tagLocalizacao>
+</deputado>
+<deputado>
+  <id>18848</id>
+  <nome>Cássio Soares</nome>
+  <partido>PSD</partido>
+  <tagLocalizacao>992</tagLocalizacao>
+</deputado>
+<deputado>
+  <id>18849</id>
+  <nome>Celinho do Sinttrocel</nome>
+  <partido>PCdoB</partido>
+  <tagLocalizacao>981</tagLocalizacao>
+</deputado>
+<deputado>
+  <id>2267</id>
+  <nome>Celise Laviola</nome>
+  <partido>MDB</partido>
+  <tagLocalizacao>1671</tagLocalizacao>
+</deputado>
+<deputado>
+  <id>24622</id>
+  <nome>Coronel Piccinini</nome>
+  <partido>PSB</partido>
+  <tagLocalizacao>1912</tagLocalizacao>
+</deputado>
+<deputado>
+  <id>22523</id>
+  <nome>Cristiano Silveira</nome>
+  <partido>PT</partido>
+  <tagLocalizacao>1672</tagLocalizacao>
+</deputado>
+<deputado>
+  <id>9655</id>
+  <nome>Dalmo Ribeiro Silva</nome>
+  <partido>PSDB</partido>
+  <tagLocalizacao>661</tagLocalizacao>
+</deputado>
+<deputado>
+  <id>5898</id>
+  <nome>Dilzon Melo</nome>
+  <partido>PTB</partido>
+  <tagLocalizacao>665</tagLocalizacao>
+</deputado>
+<deputado>
+  <id>22513</id>
+  <nome>Dirceu Ribeiro</nome>
+  <partido>PODE</partido>
+  <tagLocalizacao>1673</tagLocalizacao>
+</deputado>
+<deputado>
+  <id>22531</id>
+  <nome>Douglas Melo</nome>
+  <partido>MDB</partido>
+  <tagLocalizacao>1674</tagLocalizacao>
+</deputado>
+<deputado>
+  <id>22581</id>
+  <nome>Doutor Jean Freire</nome>
+  <partido>PT</partido>
+  <tagLocalizacao>1675</tagLocalizacao>
+</deputado>
+<deputado>
+  <id>18850</id>
+  <nome>Doutor Wilson Batista</nome>
+  <partido>PSD</partido>
+  <tagLocalizacao>982</tagLocalizacao>
+</deputado>
+<deputado>
+  <id>17919</id>
+  <nome>Duarte Bechir</nome>
+  <partido>PSD</partido>
+  <tagLocalizacao>673</tagLocalizacao>
+</deputado>
+<deputado>
+  <id>4018</id>
+  <nome>Durval Ângelo</nome>
+  <partido>PT</partido>
+  <tagLocalizacao>674</tagLocalizacao>
+</deputado>
+<deputado>
+  <id>18852</id>
+  <nome>Elismar Prado</nome>
+  <partido>PROS</partido>
+  <tagLocalizacao>994</tagLocalizacao>
+</deputado>
+<deputado>
+  <id>22560</id>
+  <nome>Emidinho Madeira</nome>
+  <partido>PSB</partido>
+  <tagLocalizacao>1676</tagLocalizacao>
+</deputado>
+<deputado>
+  <id>18853</id>
+  <nome>Fabiano Tolentino</nome>
+  <partido>PPS</partido>
+  <tagLocalizacao>995</tagLocalizacao>
+</deputado>
+<deputado>
+  <id>22516</id>
+  <nome>Fábio Avelar Oliveira</nome>
+  <partido>AVANTE</partido>
+  <tagLocalizacao>1677</tagLocalizacao>
+</deputado>
+<deputado>
+  <id>18854</id>
+  <nome>Fábio Cherem</nome>
+  <partido>PDT</partido>
+  <tagLocalizacao>997</tagLocalizacao>
+</deputado>
+<deputado>
+  <id>22601</id>
+  <nome>Felipe Attiê</nome>
+  <partido>PTB</partido>
+  <tagLocalizacao>1678</tagLocalizacao>
+</deputado>
+<deputado>
+  <id>9886</id>
+  <nome>Fred Costa</nome>
+  <partido>PATRI</partido>
+  <tagLocalizacao>996</tagLocalizacao>
+</deputado>
+<deputado>
+  <id>22848</id>
+  <nome>Geisa Teixeira</nome>
+  <partido>PT</partido>
+  <tagLocalizacao>1694</tagLocalizacao>
+</deputado>
+<deputado>
+  <id>7762</id>
+  <nome>Gil Pereira</nome>
+  <partido>PP</partido>
+  <tagLocalizacao>680</tagLocalizacao>
+</deputado>
+<deputado>
+  <id>12201</id>
+  <nome>Gilberto Abramo</nome>
+  <partido>PRB</partido>
+  <tagLocalizacao>681</tagLocalizacao>
+</deputado>
+<deputado>
+  <id>20231</id>
+  <nome>Glaycon Franco</nome>
+  <partido>PV</partido>
+  <tagLocalizacao>1297</tagLocalizacao>
+</deputado>
+<deputado>
+  <id>13981</id>
+  <nome>Gustavo Corrêa</nome>
+  <partido>DEM</partido>
+  <tagLocalizacao>683</tagLocalizacao>
+</deputado>
+<deputado>
+  <id>24621</id>
+  <nome>Gustavo Santana</nome>
+  <partido>PR</partido>
+  <tagLocalizacao>1875</tagLocalizacao>
+</deputado>
+<deputado>
+  <id>12202</id>
+  <nome>Gustavo Valadares</nome>
+  <partido>PSDB</partido>
+  <tagLocalizacao>684</tagLocalizacao>
+</deputado>
+<deputado>
+  <id>5905</id>
+  <nome>Hely Tarqüínio</nome>
+  <partido>PV</partido>
+  <tagLocalizacao>685</tagLocalizacao>
+</deputado>
+<deputado>
+  <id>15265</id>
+  <nome>Inácio Franco</nome>
+  <partido>PV</partido>
+  <tagLocalizacao>686</tagLocalizacao>
+</deputado>
+<deputado>
+  <id>8095</id>
+  <nome>Ione Pinheiro</nome>
+  <partido>DEM</partido>
+  <tagLocalizacao>1679</tagLocalizacao>
+</deputado>
+<deputado>
+  <id>12992</id>
+  <nome>Iran Barbosa</nome>
+  <partido>MDB</partido>
+  <tagLocalizacao>1680</tagLocalizacao>
+</deputado>
+<deputado>
+  <id>22597</id>
+  <nome>Isauro Calais</nome>
+  <partido>MDB</partido>
+  <tagLocalizacao>1681</tagLocalizacao>
+</deputado>
+<deputado>
+  <id>7763</id>
+  <nome>Ivair Nogueira</nome>
+  <partido>MDB</partido>
+  <tagLocalizacao>688</tagLocalizacao>
+</deputado>
+<deputado>
+  <id>7766</id>
+  <nome>João Leite</nome>
+  <partido>PSDB</partido>
+  <tagLocalizacao>690</tagLocalizacao>
+</deputado>
+<deputado>
+  <id>22561</id>
+  <nome>João Magalhães</nome>
+  <partido>MDB</partido>
+  <tagLocalizacao>1682</tagLocalizacao>
+</deputado>
+<deputado>
+  <id>18858</id>
+  <nome>João Vítor Xavier</nome>
+  <partido>PSDB</partido>
+  <tagLocalizacao>1000</tagLocalizacao>
+</deputado>
+<deputado>
+  <id>15254</id>
+  <nome>Lafayette de Andrada</nome>
+  <partido>PRB</partido>
+  <tagLocalizacao>693</tagLocalizacao>
+</deputado>
+<deputado>
+  <id>10434</id>
+  <nome>Leandro Genaro</nome>
+  <partido>PSD</partido>
+  <tagLocalizacao>1683</tagLocalizacao>
+</deputado>
+<deputado>
+  <id>16019</id>
+  <nome>Léo Portela</nome>
+  <partido>PR</partido>
+  <tagLocalizacao>1684</tagLocalizacao>
+</deputado>
+<deputado>
+  <id>7769</id>
+  <nome>Leonídio Bouças</nome>
+  <partido>MDB</partido>
+  <tagLocalizacao>1457</tagLocalizacao>
+</deputado>
+<deputado>
+  <id>12210</id>
+  <nome>Luiz Humberto Carneiro</nome>
+  <partido>PSDB</partido>
+  <tagLocalizacao>695</tagLocalizacao>
+</deputado>
+<deputado>
+  <id>12213</id>
+  <nome>Marília Campos</nome>
+  <partido>PT</partido>
+  <tagLocalizacao>1685</tagLocalizacao>
+</deputado>
+<deputado>
+  <id>21125</id>
+  <nome>Mário Henrique Caixa</nome>
+  <partido>PV</partido>
+  <tagLocalizacao>1458</tagLocalizacao>
+</deputado>
+<deputado>
+  <id>22512</id>
+  <nome>Missionário Marcio Santiago</nome>
+  <partido>PR</partido>
+  <tagLocalizacao>1686</tagLocalizacao>
+</deputado>
+<deputado>
+  <id>18863</id>
+  <nome>Neilando Pimenta</nome>
+  <partido>PODE</partido>
+  <tagLocalizacao>1005</tagLocalizacao>
+</deputado>
+<deputado>
+  <id>22521</id>
+  <nome>Noraldino Júnior</nome>
+  <partido>PSC</partido>
+  <tagLocalizacao>1687</tagLocalizacao>
+</deputado>
+<deputado>
+  <id>22524</id>
+  <nome>Nozinho</nome>
+  <partido>PDT</partido>
+  <tagLocalizacao>1688</tagLocalizacao>
+</deputado>
+<deputado>
+  <id>15258</id>
+  <nome>Paulo Guedes</nome>
+  <partido>PT</partido>
+  <tagLocalizacao>701</tagLocalizacao>
+</deputado>
+<deputado>
+  <id>22577</id>
+  <nome>Ricardo Faria</nome>
+  <partido>PCdoB</partido>
+  <tagLocalizacao>1689</tagLocalizacao>
+</deputado>
+<deputado>
+  <id>22607</id>
+  <nome>Roberto Andrade</nome>
+  <partido>PSB</partido>
+  <tagLocalizacao>1690</tagLocalizacao>
+</deputado>
+<deputado>
+  <id>9671</id>
+  <nome>Rogério Correia</nome>
+  <partido>PT</partido>
+  <tagLocalizacao>1008</tagLocalizacao>
+</deputado>
+<deputado>
+  <id>15260</id>
+  <nome>Rosângela Reis</nome>
+  <partido>PODE</partido>
+  <tagLocalizacao>704</tagLocalizacao>
+</deputado>
+<deputado>
+  <id>9673</id>
+  <nome>Sargento Rodrigues</nome>
+  <partido>PTB</partido>
+  <tagLocalizacao>706</tagLocalizacao>
+</deputado>
+<deputado>
+  <id>1832</id>
+  <nome>Sávio Souza Cruz</nome>
+  <partido>MDB</partido>
+  <tagLocalizacao>707</tagLocalizacao>
+</deputado>
+<deputado>
+  <id>18860</id>
+  <nome>Tadeu Martins Leite</nome>
+  <partido>MDB</partido>
+  <tagLocalizacao>1010</tagLocalizacao>
+</deputado>
+<deputado>
+  <id>22515</id>
+  <nome>Thiago Cota</nome>
+  <partido>MDB</partido>
+  <tagLocalizacao>1691</tagLocalizacao>
+</deputado>
+<deputado>
+  <id>11237</id>
+  <nome>Tiago Ulisses</nome>
+  <partido>PV</partido>
+  <tagLocalizacao>710</tagLocalizacao>
+</deputado>
+<deputado>
+  <id>22616</id>
+  <nome>Tito Torres</nome>
+  <partido>PSDB</partido>
+  <tagLocalizacao>1692</tagLocalizacao>
+</deputado>
+<deputado>
+  <id>18867</id>
+  <nome>Ulysses Gomes</nome>
+  <partido>PT</partido>
+  <tagLocalizacao>1011</tagLocalizacao>
+</deputado>
+<deputado>
+  <id>15257</id>
+  <nome>Vanderlei Miranda</nome>
+  <partido>MDB</partido>
+  <tagLocalizacao>711</tagLocalizacao>
+</deputado>
+</listaDeputado>
